@@ -1,0 +1,65 @@
+,,,,Turnout Rate,Denominators,,Vote in Party Contest,,,,,
+Date,State,Election Type,Party,VEP Total Ballots Counted,Voting-Eligible Population (VEP),Voting-Age Population (VAP),Democrat,Republican,Minor,Total Ballots Counted,Notes,
+2/1/2016,Iowa,Caucus,D&R,15.7%,"2,286,197","2,403,229","171,109","186,874",,"357,983",,
+2/9/2016,New Hampshire,Primary,D&R,52.4%,"1,035,734","1,070,657","254,776","287,683",,"542,459",http://sos.nh.gov/2016PresPrimElectResults.aspx,
+2/20/2016,Nevada,Caucus,D,,"1,936,072","2,248,402","84,000",,,,,
+,South Carolina,Primary,R,,"3,663,583","3,837,705",,"745,405",,,,
+2/23/2016,Nevada,Caucus,R,8.2%,"1,936,072","2,248,402",,"75,216",,"159,216",,
+2/27/2016,South Carolina,Primary,D,30.5%,"3,663,583","3,837,705","373,063",,,"1,118,468",http://www.enr-scvotes.org/SC/59277/160652/en/summary.html,
+3/1/2016,Alabama,Primary,D&R,35.0%,"3,602,334","3,764,601","399,899","860,652",,"1,260,551",http://www.alabamavotes.gov/ElectionInfo/ElectionInfo2016.aspx?a=voters,Amended Democratic Results http://www.alabamavotes.gov/downloads/election/2016/primary/primaryResultsCertified-Amended-Democratic-2016-06-27.pdf
+,Alaska,Caucus,R,,"520,731","553,484",,"21,930",,,,
+,Arkansas,Primary,D&R,30.2%,"2,137,115","2,281,940","221,020","410,920",,"644,523",http://results.enr.clarityelections.com/AR/58350/162437/Web01/en/summary.html,
+,Colorado,Caucus,D&R,,"3,928,790","4,259,519","123,508",,,,http://www.coloradocaucus.com/,
+,Georgia,Primary,D&R,29.9%,"6,900,387","7,781,773","765,366","1,295,963",,"2,061,329",http://results.enr.clarityelections.com/GA/58980/162407/en/summary.html,
+,Massachusetts,Primary,D&R,37.4%,"4,966,742","5,442,265","1,220,296","637,703","1,681","1,859,680",http://www.sec.state.ma.us/ele/,
+,Minnesota,Caucus,D&R,8.1%,"3,967,061","4,225,114","207,109","114,245",,"321,354",http://electionresults.sos.state.mn.us/,
+,North Dakota,Caucus,R,,"575,846","591,032",,,,,North Dakota Legislative District Caucuses were held Jan. 1 - March 1,
+,Oklahoma,Primary,D&R,28.6%,"2,781,841","2,966,460","335,843","459,922",,"795,765",https://www.ok.gov/elections/support/20160301_seb.html,
+,Tennessee,Primary,D&R,25.3%,"4,874,592","5,134,596","377,222","855,729",,"1,232,951",http://elections.tn.gov/results.php,
+,Texas,Primary,D&R,24.7%,"17,299,279","20,534,676","1,435,895","2,836,488",,"4,272,383",https://enrpages.sos.state.tx.us/,
+,Vermont,Primary,D&R,39.8%,"495,563","506,881","135,256","61,756",,"197,012",http://vtelectionresults.sec.state.vt.us/Index.html#/,
+,Virginia,Primary,D&R,30.1%,"6,022,089","6,549,502","785,041","1,025,425",,"1,810,466",http://elections.virginia.gov/resultsreports/election-results/2016-election-results/index.html,
+,Wyoming (canceled for March 12 county conventions),Caucus,R,,"428,300","448,133",,,,,,
+3/5/2016,Kansas,Caucus,D&R,5.5%,"2,062,778","2,199,237","40,000","73,116",,"113,116",,
+,Kentucky,Caucus,R,,"3,263,219","3,421,813",,"229,667",,,,AP results
+,Louisiana,Primary,D&R,18.2%,"3,373,552","3,569,063","311,776","301,241",,"613,017",https://voterportal.sos.la.gov/Graphical,
+,Maine,Caucus,R,,"1,054,309","1,074,172",,"18,650",,,,
+,Nebraska,Caucus,D,,"1,348,302","1,433,159","33,460",,,,,Still one preinct shy according to AP. We may never know the true number
+3/6/2016,Maine,Caucus,D,6.1%,"1,054,309","1,074,172","46,000",,,"64,650",,
+3/8/2016,Hawaii,Caucus,R,,"1,025,208","1,127,205",,"13,377",,,,AP results
+,Idaho,Primary,R,,"1,149,007","1,234,566",,"226,711",485,,http://www.sos.idaho.gov/elect/results/2016/PresidentialPrimary/ENR/statewide_total.html,
+,Michigan,Primary,D&R,34.1%,"7,419,694","7,734,729","1,205,552","1,323,589",,"2,529,141",http://miboecfr.nictusa.com/election/results/2016PPR_CENR.html,
+,Mississippi,Primary,D&R,29.5%,"2,181,159","2,267,268","227,164","416,252",,"643,416",http://www.sos.ms.gov/Elections-Voting/Pages/Election-Results-By-Year.aspx,
+3/12/2016,District of Columbia,Convention,R,,"509,305","561,143",,"2,839",,,,
+3/15/2016,Florida,Primary,D&R,28.2%,"14,445,578","16,383,763","1,709,183","2,361,805",,"4,070,988",http://enight.elections.myflorida.com/FederalOffices/Presidential/,
+,Illinois,Primary,D&R,38.9%,"9,015,796","9,907,466","2,056,047","1,449,748",,"3,505,795",http://www.elections.il.gov/ElectionResults.aspx?ID=50,
+,Missouri,Primary,D&R,34.8%,"4,518,767","4,706,349","629,425","939,270","3,504","1,572,199",http://enr.sos.mo.gov/EnrNet/,
+,North Carolina,Primary,D&R,31.6%,"7,266,734","7,816,113","1,142,916","1,149,530","5,819","2,298,265",http://er.ncsbe.gov/?election_dt=03/15/2016&county_id=0&office=FED&contest=0,
+,Ohio,Primary,D&R,37.5%,"8,738,019","9,004,337","1,259,754","2,014,396","4,043","3,278,193",http://www.sos.state.oh.us/SOS/elections/Research/electResultsMain/2016Results.aspx,
+3/22/2016,Arizona,Primary,D&R,23.5%,"4,659,373","5,268,830","468,461","625,770",880,"1,095,111",http://apps.azsos.gov/election/2016/PPE/canvass2016ppe.pdf,
+,Idaho,Caucus,D,21.9%,"1,149,007","1,234,566","23,884",,,"251,080",,
+,Utah,Caucus,D&R,14.3%,"1,963,474","2,113,180","81,606","200,000",,"281,606","Democratic: http://utahdemocrats.org/caucus2016results/, Republican: the Utah Republican Party provided a press release stating ""over 200,000"" people participated in their caucus",
+3/26/2016,Alaska,Caucus,D,6.2%,"520,731","553,484","10,600",,,"32,530",http://www.adn.com/article/20160326/sanders-dominates-packed-alaska-democratic-caucuses,
+,Hawaii,Caucus,D,4.6%,"1,025,208","1,127,205","33,716",,,"47,093",,AP results
+,Washington,Caucus,D,,"5,080,485","5,624,976","230,000",,,,https://twitter.com/jamalraad/status/713964220249812992,"I hate caucuses, this is all I've got for turnout, a tweet from the Washington Democratic Party's communications director"
+4/5/2016,Wisconsin,Primary,D&R,49.4%,"4,282,271","4,491,213","1,007,600","1,105,944",,"2,113,544",http://www.gab.wi.gov/elections-voting/results/2016/spring-election-presidential-preference,
+4/9/2016,Wyoming,Caucus,D,,"428,411","448,249","7,000",,,,http://m.gazette.com/wyoming-democrats-give-sanders-another-win/article/feed/335238,
+4/19/2016,New York,Primary,D&R,21.2%,"13,638,797","15,635,714","1,970,900","921,771",,"2,892,671",http://www.elections.ny.gov/,
+4/26/2016,Connecticut,Primary,D&R,21.0%,"2,579,776","2,831,012","328,624","213,647",,"542,271",http://www.ct.gov/sots/lib/sots/electionservices/statementofvote_pdfs/april_2016_republican_ppp_sov.pdf,http://www.ct.gov/sots/lib/sots/electionservices/statementofvote_pdfs/april_2016_democratic_ppp_sov.pdf
+,Delaware,Primary,D&R,23.5%,"695,642","749,184","93,640","69,892",,"163,532",http://elections.delaware.gov/archive/elect16/elect16_pres_primary/html/index.shtml,
+,Maryland,Primary,D&R,32.8%,"4,190,917","4,682,409","916,763","459,066",,"1,375,829",http://elections.maryland.gov/elections/2016/results/Primary/gen_results_2016_3_001-.html,
+,Pennsylvania,Primary,D&R,33.7%,"9,721,843","10,131,664","1,681,427","1,594,475",,"3,275,902",http://www.electionreturns.state.pa.us/ENR_NEW,.
+,Rhode Island,Primary,D&R,23.6%,"780,998","847,454","122,458","61,614",,"184,072",https://www.ri.gov/election/results/2016/presidential_preference_primary/,
+5/3/2016,Indiana,Primary,D&R,36.0%,"4,855,984","5,061,304","638,779","1,110,543",,"1,749,322",http://www.in.gov/apps/sos/primary/sos_primary16?page=office&countyID=-1&partyID=-1&officeID=36&districtID=-1&districtshortviewID=-1&candidate=,
+5/10/2016,Nebraska,Primary,R,17.2%,"1,349,169","1,434,986","78,510","197,430",705,"231,595",http://electionresults.sos.ne.gov/resultsSW.aspx?text=Race&type=PRS&map=CTY,Democrats held a non-binding primary on 5/10. The overall turnout rate excludes this primary and includes the binding Democratic caucus on 3/5
+,West Virginia,Primary,D&R,31.1%,"1,434,982","1,459,826","242,539","204,061",,"446,600",https://apps.sos.wv.gov/elections/results/results.aspx?year=2016&eid=22&county=Statewide,
+5/17/2016,Kentucky,Primary,D,21.0%,"3,265,260","3,423,910","454,573",,,"684,240",http://results.enr.clarityelections.com/KY/61323/168222/Web01/en/summary.html,
+,Oregon,Primary,D&R,36.0%,"2,980,345","3,211,041","658,102","415,103","155,253","1,073,205",http://sos.oregon.gov/elections/Documents/P16-Statewide-turnout.pdf,"I count all minor party and no party affilated in ""Minor"" category. There were 107,699 no party affilated and 47,554 minor party votes cast. These are not include in the total ballots cast or turnout rate calculations since none of these voters selected delegates to their party conventions"
+5/24/2016,Washington,Primary,R,16.0%,"5,095,707","5,641,592",,"587,152",,"817,152",http://results.vote.wa.gov/results/20160524/President-Republican-Party.html,
+6/7/2016,California,Primary,D&R,34.0%,"25,126,973","30,367,243","5,173,338","2,227,306","93,119","8,548,301",http://vote.sos.ca.gov/,All minor parties combined
+,Montana,Primary,D&R,35.5%,"798,787","813,839","126,376","156,888",,"283,264",http://mtelectionresults.gov/,
+,New Jersey,Primary,D&R,20.4%,"6,060,729","6,989,532","793,548","443,062",,"1,236,610",http://www.state.nj.us/state/elections/,"Not certified results, still some votes outstanding, provisional ballots to be counted"
+,New Mexico,Primary,D&R,22.6%,"1,455,013","1,592,398","216,705","104,627",,"328,792",http://electionresults.sos.state.nm.us/default.aspx,
+,North Dakota,Caucus,D,0.7%,"578,789","594,043","4,000",,,"4,000",Number of attendees of district level caucuses provided to me by North Dakota Democratic Party,
+,South Dakota,Primary,D&R,19.9%,"634,281","651,157","53,006","66,879",,"126,128",http://electionresults.sd.gov/,
+6/14/2016,District of Columbia,Primary,D,20.2%,"510,895","563,776","100,423",,,"103,262",https://www.dcboee.org/election_info/election_results/v3/2016/June-14-Primary-Election,
